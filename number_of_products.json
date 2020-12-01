@@ -1,0 +1,86 @@
+[
+    {
+        "category": "Bageri",
+        "number of products": 627
+    },
+    {
+        "category": "Drycker",
+        "number of products": 1114
+    },
+    {
+        "category": "Färdigmat",
+        "number of products": 517
+    },
+    {
+        "category": "Fisk & Skaldjur",
+        "number of products": 224
+    },
+    {
+        "category": "Frukt & Grönt",
+        "number of products": 433
+    },
+    {
+        "category": "Godis & Snacks",
+        "number of products": 757
+    },
+    {
+        "category": "Kött & Chark",
+        "number of products": 751
+    },
+    {
+        "category": "Mejeri & Ägg",
+        "number of products": 1201
+    },
+    {
+        "category": "Skafferi",
+        "number of products": 2065
+    },
+    {
+        "category": "Världens Mat",
+        "number of products": 319
+    },
+    {
+        "category": "Barn",
+        "number of products": 440
+    },
+    {
+        "category": "Hem & Fritid",
+        "number of products": 417
+    },
+    {
+        "category": "Husdjur",
+        "number of products": 171
+    },
+    {
+        "category": "Skönhet & Hygien",
+        "number of products": 697
+    },
+    {
+        "category": "Hälsa",
+        "number of products": 182
+    },
+    {
+        "category": "Glass",
+        "number of products": 225
+    },
+    {
+        "category": "HemmaApotek",
+        "number of products": 87
+    },
+    {
+        "category": "Deli",
+        "number of products": 262
+    },
+    {
+        "category": "Blommor",
+        "number of products": 8
+    },
+    {
+        "category": "Städ, Tvätt & Disk",
+        "number of products": 329
+    },
+    {
+        "category": "Restaurangmat",
+        "number of products": 23
+    }
+]

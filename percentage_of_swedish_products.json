@@ -1,0 +1,86 @@
+[
+    {
+        "category": "Bageri",
+        "percentage, swedish": 58.85167464114832
+    },
+    {
+        "category": "Drycker",
+        "percentage, swedish": 55.00000000000001
+    },
+    {
+        "category": "Färdigmat",
+        "percentage, swedish": 50.483558994197296
+    },
+    {
+        "category": "Fisk & Skaldjur",
+        "percentage, swedish": 57.14285714285714
+    },
+    {
+        "category": "Frukt & Grönt",
+        "percentage, swedish": 30.71593533487298
+    },
+    {
+        "category": "Godis & Snacks",
+        "percentage, swedish": 32.89299867899604
+    },
+    {
+        "category": "Kött & Chark",
+        "percentage, swedish": 71.5046604527297
+    },
+    {
+        "category": "Mejeri & Ägg",
+        "percentage, swedish": 53.1
+    },
+    {
+        "category": "Skafferi",
+        "percentage, swedish": 26.700000000000003
+    },
+    {
+        "category": "Världens Mat",
+        "percentage, swedish": 17.24137931034483
+    },
+    {
+        "category": "Barn",
+        "percentage, swedish": 15.454545454545453
+    },
+    {
+        "category": "Hem & Fritid",
+        "percentage, swedish": 14.86810551558753
+    },
+    {
+        "category": "Husdjur",
+        "percentage, swedish": 15.204678362573098
+    },
+    {
+        "category": "Skönhet & Hygien",
+        "percentage, swedish": 10.186513629842182
+    },
+    {
+        "category": "Hälsa",
+        "percentage, swedish": 28.57142857142857
+    },
+    {
+        "category": "Glass",
+        "percentage, swedish": 48.44444444444444
+    },
+    {
+        "category": "HemmaApotek",
+        "percentage, swedish": 21.839080459770116
+    },
+    {
+        "category": "Deli",
+        "percentage, swedish": 22.137404580152673
+    },
+    {
+        "category": "Blommor",
+        "percentage, swedish": 75.0
+    },
+    {
+        "category": "Städ, Tvätt & Disk",
+        "percentage, swedish": 17.933130699088146
+    },
+    {
+        "category": "Restaurangmat",
+        "percentage, swedish": 95.65217391304348
+    }
+]

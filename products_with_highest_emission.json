@@ -1,0 +1,527 @@
+[
+    {
+        "category": "Bageri",
+        "products": [
+            {
+                "emission": 0.0,
+                "product": "Lingongrova"
+            },
+            {
+                "emission": 0.0,
+                "product": "Hamburgerbröd Frisco"
+            },
+            {
+                "emission": 0.0,
+                "product": "Roast´n Toast"
+            },
+            {
+                "emission": 0.0,
+                "product": "Jubileumskaka"
+            },
+            {
+                "emission": 0.0,
+                "product": "Sarek Tunnbröd"
+            }
+        ]
+    },
+    {
+        "category": "Drycker",
+        "products": [
+            {
+                "emission": 0.0,
+                "product": "Apelsinjuice"
+            },
+            {
+                "emission": 0.0,
+                "product": "Classic inkl. pant"
+            },
+            {
+                "emission": 0.0,
+                "product": "Äpplejuice"
+            },
+            {
+                "emission": 0.0,
+                "product": "Julmust inkl. pant"
+            },
+            {
+                "emission": 0.0,
+                "product": "Apelsinjuice"
+            }
+        ]
+    },
+    {
+        "category": "Färdigmat",
+        "products": [
+            {
+                "emission": 0.0,
+                "product": "Risgröt"
+            },
+            {
+                "emission": 0.0,
+                "product": "Pizzakit Deg Och Tomatsås"
+            },
+            {
+                "emission": 0.0,
+                "product": "Krögarpytt Klassisk"
+            },
+            {
+                "emission": 0.0,
+                "product": "Pommes Strips"
+            },
+            {
+                "emission": 0.0,
+                "product": "Potatisgratäng"
+            }
+        ]
+    },
+    {
+        "category": "Fisk & Skaldjur",
+        "products": [
+            {
+                "emission": 0.0,
+                "product": "Fiskpinnar, MSC"
+            },
+            {
+                "emission": 0.0,
+                "product": "Kalles Kaviar Original Mildrökt"
+            },
+            {
+                "emission": 0.0,
+                "product": "LAXFILÉ DJUPFRYST"
+            },
+            {
+                "emission": 0.0,
+                "product": "3 fina filéer av Torsk"
+            },
+            {
+                "emission": 0.0,
+                "product": "Torskfilé"
+            }
+        ]
+    },
+    {
+        "category": "Frukt & Grönt",
+        "products": [
+            {
+                "emission": 0.0,
+                "product": "Gul Lök"
+            },
+            {
+                "emission": 0.0,
+                "product": "Gurka"
+            },
+            {
+                "emission": 0.0,
+                "product": "Paprika Röd"
+            },
+            {
+                "emission": 0.0,
+                "product": "Morötter Klass 1"
+            },
+            {
+                "emission": 0.0,
+                "product": "Tomat Cocktail"
+            }
+        ]
+    },
+    {
+        "category": "Godis & Snacks",
+        "products": [
+            {
+                "emission": 0.0,
+                "product": "Mjölkchoklad"
+            },
+            {
+                "emission": 0.0,
+                "product": "Ostbågar Cheez Doodles"
+            },
+            {
+                "emission": 0.0,
+                "product": "Salta Jordnötter"
+            },
+            {
+                "emission": 0.0,
+                "product": "Original"
+            },
+            {
+                "emission": 0.0,
+                "product": "Schweizernöt"
+            }
+        ]
+    },
+    {
+        "category": "Kött & Chark",
+        "products": [
+            {
+                "emission": 0.0,
+                "product": "Bacon 3-pack"
+            },
+            {
+                "emission": 0.0,
+                "product": "Kycklingfilé, mörad"
+            },
+            {
+                "emission": 0.0,
+                "product": "Falukorv Ring"
+            },
+            {
+                "emission": 0.0,
+                "product": "Bror Jakobs Rökta Skinka"
+            },
+            {
+                "emission": 0.0,
+                "product": "Bacon Piggham"
+            }
+        ]
+    },
+    {
+        "category": "Mejeri & Ägg",
+        "products": [
+            {
+                "emission": 0.0,
+                "product": "Normalsaltat 80%"
+            },
+            {
+                "emission": 0.0,
+                "product": "Mellanmjölk 1,5%"
+            },
+            {
+                "emission": 0.0,
+                "product": "Crème Fraîche 32%"
+            },
+            {
+                "emission": 0.0,
+                "product": "Gräddfil 12%"
+            },
+            {
+                "emission": 0.0,
+                "product": "Ägg Ekologiska L"
+            }
+        ]
+    },
+    {
+        "category": "Skafferi",
+        "products": [
+            {
+                "emission": 0.0,
+                "product": "Finkrossade tomater"
+            },
+            {
+                "emission": 0.0,
+                "product": "Vetemjöl"
+            },
+            {
+                "emission": 0.0,
+                "product": "Pasta Spaghetti"
+            },
+            {
+                "emission": 0.0,
+                "product": "Pasta Penne Rigate"
+            },
+            {
+                "emission": 0.0,
+                "product": "Strösocker"
+            }
+        ]
+    },
+    {
+        "category": "Världens Mat",
+        "products": [
+            {
+                "emission": 0.0,
+                "product": "Tortilla Original Medium"
+            },
+            {
+                "emission": 0.0,
+                "product": "Taco Spice Mix"
+            },
+            {
+                "emission": 0.0,
+                "product": "Tortilla Original Medium"
+            },
+            {
+                "emission": 0.0,
+                "product": "Coconut Milk Original"
+            },
+            {
+                "emission": 0.0,
+                "product": "Taco Spice Mix"
+            }
+        ]
+    },
+    {
+        "category": "Barn",
+        "products": [
+            {
+                "emission": 0.0,
+                "product": "Bamse Barntandkräm"
+            },
+            {
+                "emission": 0.0,
+                "product": "Tvättservetter Våta"
+            },
+            {
+                "emission": 0.0,
+                "product": "Up&Go (6) 13-20kg Byxblöjor"
+            },
+            {
+                "emission": 0.0,
+                "product": "Tvättlapp Torra 3 Lager"
+            },
+            {
+                "emission": 0.0,
+                "product": "Våtservetter Baby"
+            }
+        ]
+    },
+    {
+        "category": "Hem & Fritid",
+        "products": [
+            {
+                "emission": 0.0,
+                "product": "Aluminiumfolie Ugn/grill/frys"
+            },
+            {
+                "emission": 0.0,
+                "product": "Bakplåtspapper Ark"
+            },
+            {
+                "emission": 0.0,
+                "product": "Fryspåsar 35st"
+            },
+            {
+                "emission": 0.0,
+                "product": "Plastfolie"
+            },
+            {
+                "emission": 0.0,
+                "product": "Fryspåse 3 Liter"
+            }
+        ]
+    },
+    {
+        "category": "Husdjur",
+        "products": [
+            {
+                "emission": 0.0,
+                "product": "Hundbajspåse"
+            },
+            {
+                "emission": 0.0,
+                "product": "Hundtugg Kyckling"
+            },
+            {
+                "emission": 0.0,
+                "product": "Cat-sticks Mini Kalkon/lamm"
+            },
+            {
+                "emission": 0.0,
+                "product": "Kattströ Spring Fresh"
+            },
+            {
+                "emission": 0.0,
+                "product": "Köttmeny I Sås 1+år Kattmat"
+            }
+        ]
+    },
+    {
+        "category": "Skönhet & Hygien",
+        "products": [
+            {
+                "emission": 0.0,
+                "product": "Bamse Barntandkräm"
+            },
+            {
+                "emission": 0.0,
+                "product": "Tandkräm Super Fluor"
+            },
+            {
+                "emission": 0.0,
+                "product": "Flytande Tvål Cream Wash Refill"
+            },
+            {
+                "emission": 0.0,
+                "product": "Ekologiska Bomullspinnar"
+            },
+            {
+                "emission": 0.0,
+                "product": "Tandkräm Original"
+            }
+        ]
+    },
+    {
+        "category": "Hälsa",
+        "products": [
+            {
+                "emission": 0.0,
+                "product": "Proteinpudding Choklad Laktosfri"
+            },
+            {
+                "emission": 0.0,
+                "product": "Caribbean Inkl. Pant"
+            },
+            {
+                "emission": 0.0,
+                "product": "ProPud White Chocolate Raspberry Milkshake"
+            },
+            {
+                "emission": 0.0,
+                "product": "Propud Choklad"
+            },
+            {
+                "emission": 0.0,
+                "product": "C-vitamin Citron Brustablett"
+            }
+        ]
+    },
+    {
+        "category": "Glass",
+        "products": [
+            {
+                "emission": 0.0,
+                "product": "Gammaldags Äkta Vanilj Gräddglass"
+            },
+            {
+                "emission": 0.0,
+                "product": "Vanilj"
+            },
+            {
+                "emission": 0.0,
+                "product": "Chokladsås"
+            },
+            {
+                "emission": 0.0,
+                "product": "Sandwich Original"
+            },
+            {
+                "emission": 0.0,
+                "product": "Vanilj"
+            }
+        ]
+    },
+    {
+        "category": "HemmaApotek",
+        "products": [
+            {
+                "emission": 0.0,
+                "product": "Ipren 400mg"
+            },
+            {
+                "emission": 0.0,
+                "product": "Original Hallon Brustablett Vätskeersättning"
+            },
+            {
+                "emission": 0.0,
+                "product": "Original Brustabletter"
+            },
+            {
+                "emission": 0.0,
+                "product": "Smälttablett 500mg"
+            },
+            {
+                "emission": 0.0,
+                "product": "Original Apelsin Brustablett Vätskeersättning"
+            }
+        ]
+    },
+    {
+        "category": "Deli",
+        "products": [
+            {
+                "emission": 0.0,
+                "product": "Mozzarella 19% Michelangelo"
+            },
+            {
+                "emission": 0.0,
+                "product": "Original färskost"
+            },
+            {
+                "emission": 0.0,
+                "product": "Grana Padano 10 mån"
+            },
+            {
+                "emission": 0.0,
+                "product": "Pesto Genovese Grön"
+            },
+            {
+                "emission": 0.0,
+                "product": "Original"
+            }
+        ]
+    },
+    {
+        "category": "Blommor",
+        "products": [
+            {
+                "emission": 0.0,
+                "product": "Rosor"
+            },
+            {
+                "emission": 0.0,
+                "product": "Tulpaner"
+            },
+            {
+                "emission": 0.0,
+                "product": "Rosor Kallmix"
+            },
+            {
+                "emission": 0.0,
+                "product": "Veckans Bukett"
+            },
+            {
+                "emission": 0.0,
+                "product": "Bukett Lyx"
+            }
+        ]
+    },
+    {
+        "category": "Städ, Tvätt & Disk",
+        "products": [
+            {
+                "emission": 0.0,
+                "product": "The Original Diskduk"
+            },
+            {
+                "emission": 0.0,
+                "product": "Vitt Mjukt Toalettpapper"
+            },
+            {
+                "emission": 0.0,
+                "product": "Original Diskmedel"
+            },
+            {
+                "emission": 0.0,
+                "product": "Vitt Mjukt Toalettpapper"
+            },
+            {
+                "emission": 0.0,
+                "product": "Avfallspåse Extra stark med knythandtag"
+            }
+        ]
+    },
+    {
+        "category": "Restaurangmat",
+        "products": [
+            {
+                "emission": 0.0,
+                "product": "Viltfärsbiffar med skogssvampsås samt potatis&västerbottenpuré"
+            },
+            {
+                "emission": 0.0,
+                "product": "Hjortsadel med svamp och sötpotatiscroquette"
+            },
+            {
+                "emission": 0.0,
+                "product": "Kycklingbröst, potatiskaka, bakad lök och örtcreme"
+            },
+            {
+                "emission": 0.0,
+                "product": "Nordströms köttbullar med potatispuré, gräddsås och rårörda lingon"
+            },
+            {
+                "emission": 0.0,
+                "product": "Green Curry Noodle Bowl med räkor"
+            }
+        ]
+    }
+]
